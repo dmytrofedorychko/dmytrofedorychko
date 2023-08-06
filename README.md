@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @dmytrofedorychko
-- 👀 I’m interested in crypto, sport
-- 🌱 I’m currently learning retrodrops, airdrops
-- 📫 How to reach me discord - dmytrofedorychko#7118
+<h1 align="center">Welcome to dmytrofedorychko profile 👋</h1>
+<h3 align="center">A Principal Software Engineer</h3>
 
-<!---
-dmytrofedorychko/dmytrofedorychko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😎 Interested in contributing expertise in web2 and web3 development
+
+- 👯 Looking to collaborate on **Innovative Projects**
+
+- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies. 
+
+- 📚 Love reading books on personal development & financial literacy. 
+
+- ⚡ Quotes: *What you do today can improve all of your tomorrows.*
